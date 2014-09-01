@@ -1,3 +1,6 @@
+### Credit
+This repository is a clone of [suttang/docker-gollum](https://github.com/suttang/docker-gollum), all credit to them.  I have cloned it so I can experiment.
+
 ## docker-gollum
 
 This Dockerfile is a simply install gollum.
